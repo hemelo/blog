@@ -12,6 +12,34 @@ This is the personal blog of **Henrique Melo**, a software engineer and develope
 - Showcase projects and achievements
 - Provide valuable resources for fellow developers
 
+## 🎯 Why This Template?
+
+**"Don't reinvent the wheel when you can build a better car."**
+
+As developers, we often fall into the trap of building everything from scratch. But here's the thing: while building a blog engine from the ground up might be intellectually satisfying, it's rarely the best use of time when your goal is to share knowledge and connect with the community.
+
+I chose the [MultiTerm Astro](https://github.com/stelcodes/multiterm-astro) template because it's a perfect example of **leveraging existing, well-tested solutions** to focus on what truly matters:
+
+### What I Didn't Have to Build (Thanks to the Template):
+- **Theme System**: 60+ beautiful color schemes with seamless switching
+- **Content Management**: Markdown/MDX processing with custom plugins
+- **SEO & Performance**: Automatic sitemaps, RSS feeds, and social cards
+- **Developer Experience**: Hot reload, TypeScript support, and code formatting
+- **Accessibility**: Proper semantic HTML and keyboard navigation
+- **Search Functionality**: Full-text search with Pagefind integration
+- **Math Rendering**: LaTeX support with KaTeX
+- **Code Highlighting**: Syntax highlighting with 59+ themes via Expressive Code
+
+### What I Can Focus On Instead:
+- **Content Creation**: Writing valuable posts that help other developers
+- **Community Building**: Engaging with readers and contributors
+- **Knowledge Sharing**: Documenting real-world experiences and solutions
+- **Continuous Learning**: Exploring new technologies and sharing insights
+
+The template is **production-ready**, **well-maintained**, and **highly customizable**. It's built on solid foundations (Astro, Tailwind CSS, TypeScript) and follows modern web development best practices. Instead of spending months building infrastructure, I can immediately start creating content that adds value to the developer community.
+
+This is a perfect example of how **good engineering isn't about writing every line of code—it's about choosing the right tools and focusing your energy where it creates the most impact**.
+
 ## ✨ Features
 
 - **Modern Tech Stack**: Built with Astro for optimal performance
